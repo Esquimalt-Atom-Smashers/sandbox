@@ -1,9 +1,10 @@
 
+
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.highgui.Highgui;
 
-public class HelloDon 
+public class OpenCVTest 
 {
 	public static void main (String[] args )
 	{
